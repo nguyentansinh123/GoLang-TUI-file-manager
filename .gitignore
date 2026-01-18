@@ -1,0 +1,29 @@
+# Binaries
+explorer
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Build directories
+bin/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Go
+*.mod
+go.sum
+vendor/
+
+# Logs
+*.log
